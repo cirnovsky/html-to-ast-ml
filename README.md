@@ -1,3 +1,3 @@
 # html-to-ast
 
-Forked from [html-to-ast](https://github.com/byoungd/html-to-ast). Added multiple-line attribute values support.
+Forked from [html-to-ast](https://github.com/byoungd/html-to-ast). Added multiline attribute values support.
